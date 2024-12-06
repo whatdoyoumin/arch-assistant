@@ -1,0 +1,8 @@
+.env
+venv
+.streamlit
+
+data_prep
+sitereports
+
+.gitignore
