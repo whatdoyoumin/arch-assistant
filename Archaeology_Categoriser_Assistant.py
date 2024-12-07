@@ -118,7 +118,7 @@ def classification_app():
         st.stop()
 
     st.title("Archaeology Categoriser Assistant")
-
+    
     st.write("Please upload a file with a 'Remarks' column containing text descriptions of the archaeological artefacts.")
     st.write("This assistant will help categorise the artefacts based on their decoration techniques.")
 
